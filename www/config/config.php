@@ -2,5 +2,5 @@
 	define('HOST','localhost');
 	define('USERDB','root');
 	define('PASSDB','');
-	define('DB','miappss');
+	define('DB','appss');
 ?>
